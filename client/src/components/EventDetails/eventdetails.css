@@ -1,0 +1,30 @@
+.eventDetails {
+    font-family: 'Bitter', serif;
+    font-size: 1.5rem;
+    color: ghostwhite;
+    background-color: rebeccapurple;
+}
+
+.eventDetailsBox {
+    margin: 30px;
+}
+
+/* .event-header {
+    font-family: 'Pacifico', cursive !important;
+    font-size: 30px !important;
+} */
+
+.event-header {
+    /*font-family: 'Bitter', serif !important;*/
+   font-family: 'Fugaz One', cursive !important;
+    font-size: 4rem !important;
+    font-weight: lighter !important;
+    color: ghostwhite !important;
+    background-color: rebeccapurple;
+    max-width: 125rem;
+}
+
+.eventDetails-edit {
+    margin-left: 20px !important;
+}
+

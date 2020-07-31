@@ -1,0 +1,84 @@
+
+/*input[name="text"] {*/
+/*    width: 50px;*/
+/*    height: 50px;*/
+/*    box-shadow: 10px 5px 5px 0px rgba(0,0,0,0.75)!important;*/
+/*}*/
+
+/*.message-board {*/
+/*color: white;*/
+/*}*/
+
+.view-messages {
+  height: 500px !important;
+  overflow: scroll;
+  scroll-behavior: smooth !important;
+  white-space: nowrap;
+  /* width: 800px; */
+  border: 20px solid #000000;
+  /*overflow: hidden;*/
+  /*text-overflow: ellipsis;*/
+  box-shadow: 10px 5px 5px 0px rgba(0,0,0,0.95)!important;
+  border-radius: 5px !important;
+/*background-color: #4CAF50 !important;*/
+
+  /*background-size: cover !important;*/
+
+}
+
+
+
+.message-userName {
+  letter-spacing: 0.45px;
+    background-color: indianred;
+    font-family: 'Lato', sans-serif;
+  text-transform: capitalize;
+
+    /*width: 25%;*/
+    /*display: block;*/
+}
+
+
+
+.message-time {
+/*float: left !important;*/
+  color: black !important;
+  font-family: 'Fugaz One', cursive;
+}
+
+.ui.comments .comment .text {
+  /* color: white; */
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+}
+
+.message-posting {
+  box-shadow: 10px 5px 5px 0px rgba(0,0,0,0.15)!important;
+  border-radius: 25px;
+  color: black !important;
+}
+
+
+
+/*font-family: 'Bitter', serif;*/
+/*font-family: 'Fugaz One', cursive;*/
+
+/*font-family: 'Lato', sans-serif;*/
+/*font-family: 'Merriweather', serif;*/
+/*font-family: 'Monoton', cursive;*/
+/*font-family: 'Pacifico', cursive;*/
+
+.ui.comments .comment .avatar img, .ui.comments .comment img.avatar {
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+  height: 70%;
+  border-radius: .25rem;
+}
+
+.ui.comments .comment .avatar img, .ui.comments .comment img.avatar {
+  display: inline;
+  height: 24px;
+  width: 24px;
+
+}
